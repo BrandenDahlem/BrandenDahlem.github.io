@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Branden Dahlem's Personal Page
+
+![Profile Picture](/Downloads/Linked_in_profile_pic.jpeg)
 
 You can use the [editor on GitHub](https://github.com/BrandenDahlem/BrandenDahlem.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
